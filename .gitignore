@@ -1,0 +1,11 @@
+# Created by .ignore support plugin (hsz.mobi)
+/.idea/
+/.gradle/
+/ht-recycleview/build/
+/local.properties
+/ht-recycleviewadapter/build/
+/.idea/gradle.xml
+/.idea/runConfigurations.xml
+/.idea/encodings.xml
+/build/
+/ht-recyclerviewadapter/build/
